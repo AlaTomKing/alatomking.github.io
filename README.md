@@ -9,11 +9,25 @@ this is my html website with all the things you dont need
 this projcet is actually licensed with mit license so u can copy and do anything u want as long as u include this license text in my project. nice
 as you know, everything i made is unfinished, because i dont take being a developer very seriously. and im lazy
 
-random facts:
+## my websites
+here are all my websites that i think i remember making. some websites are abandoned, unfinished, obsolete and completely broken but im not gonna tell which one hahaha
+- Pixomato: https://alatomking.github.io/pixomato
+- som a* pathfinding: https://alatomking.github.io/A-Star-Pathfinding
+- easy sorting algorithm generator: https://alatomking.github.io/easy-sorting-algorithm-generator
+- JSONViewer: https://alatomking.github.io/JSONViewer
+- test 404 page: https://alatomking.github.io/test-404-page
+- Incognito Detector: https://alatomking.github.io/Incognito Detector (**f word alert i said the f word**)
+- Sandbox Studio Square: https://alatomking.github.io/Sandbox-Studio-Square
+- to-do-list: https://alatomking.github.io/to-do-list
+- small projects: https://alatomking.github.io/small-projects/ (unfinished but i would like to continue on that if i have the time and courage)
+- Dictionary: https://alatomking.github.io/Dictionary
+- BreadJS: https://alatomking.github.io/BreadJS
+- alatomking.github.io: https://alatomking.github.io
 
 ## why
-im a video game developer, speficially for roblox. but i know one or two about making games in other engines such as unity and godot.
-unreal engine is too much for my laptop so idk about that
+~~im a video game developer, speficially for roblox. but i know one or two about making games in other engines such as unity and godot.
+unreal engine is too much for my laptop so idk about that~~
+i consider myself as an developer now, because i try to learn to be versatile around platforms i like. so i am technically still a video game developer, but now i am also a web developer: front end and back end.
 
 ## what does 'alatomking' stand for?
 the name came from minecraft pocket edition in late 2016 because i tried to make my username green
