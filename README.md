@@ -11,18 +11,19 @@ as you know, everything i made is unfinished, because i dont take being a develo
 
 ## my websites
 here are all my websites that i think i remember making. some websites are abandoned, unfinished, obsolete and completely broken but im not gonna tell which one hahaha
-- Pixomato: https://alatomking.github.io/pixomato
-- som a* pathfinding: https://alatomking.github.io/A-Star-Pathfinding
-- easy sorting algorithm generator: https://alatomking.github.io/easy-sorting-algorithm-generator
-- JSONViewer: https://alatomking.github.io/JSONViewer
-- test 404 page: https://alatomking.github.io/test-404-page
-- Incognito Detector: https://alatomking.github.io/Incognito-Detector (**f word alert i said the f word**)
-- Sandbox Studio Square: https://alatomking.github.io/Sandbox-Studio-Square
-- to-do-list: https://alatomking.github.io/to-do-list
-- small projects: https://alatomking.github.io/small-projects/ (unfinished but i would like to continue on that if i have the time and courage)
-- Dictionary: https://alatomking.github.io/Dictionary
-- BreadJS: https://alatomking.github.io/BreadJS
-- alatomking.github.io: https://alatomking.github.io
+
+- Pixomato: [https://alatomking.github.io/pixomato](https://alatomking.github.io/Dictionary) [[GitHub](https://github.com/AlaTomKing/Pixomato)]
+- A Star Pathfinding: [https://alatomking.github.io/A-Star-Pathfinding](https://alatomking.github.io/A-Star-Pathfinding) [[GitHub](https://github.com/AlaTomKing/A-Star-Pathfinding)]
+- easy sorting algorithm generator: [https://alatomking.github.io/easy-sorting-algorithm-generator](https://alatomking.github.io/easy-sorting-algorithm-generator) [[GitHub](https://github.com/AlaTomKing/easy-sorting-algorithm-generator)]
+- JSONViewer: [https://alatomking.github.io/JSONViewer](https://alatomking.github.io/JSONViewer) [[GitHub](https://github.com/AlaTomKing/JSONViewer)]
+- test 404 page: [https://alatomking.github.io/test-404-page](https://alatomking.github.io/test-404-page) [[GitHub](https://github.com/AlaTomKing/test-404-page)]
+- Incognito Detector: [https://alatomking.github.io/Incognito-Detector](https://alatomking.github.io/Incognito-Detector) [[GitHub](https://github.com/AlaTomKing/Incognito-Detector)] (**f word alert i said the f word**)
+- Sandbox Studio Square: [https://alatomking.github.io/Sandbox-Studio-Square](https://alatomking.github.io/Sandbox-Studio-Square) [[GitHub](https://github.com/AlaTomKing/Sandbox-Studio-Square)]
+- to-do list: [https://alatomking.github.io/to-do-list](https://alatomking.github.io/to-do-list) [[GitHub](https://github.com/AlaTomKing/to-do-list)]
+- small projects: [https://alatomking.github.io/small-projects](https://alatomking.github.io/small-projects) [[GitHub](https://github.com/AlaTomKing/small-projects)] (unfinished but i would like to continue on that if i have the time and courage)
+- Dictionary: [https://alatomking.github.io/Dictionary](https://alatomking.github.io/Dictionary) [[GitHub](https://github.com/AlaTomKing/Dictionary)]
+- BreadJS: [https://alatomking.github.io/BreadJS](https://alatomking.github.io/BreadJS) [[GitHub](https://github.com/AlaTomKing/BreadJS)]
+- alatomking.github.io: [https://alatomking.github.io](https://alatomking.github.io) [[GitHub](https://github.com/AlaTomKing/alatomking.github.io)]
 
 ## why
 ~~im a video game developer, speficially for roblox. but i know one or two about making games in other engines such as unity and godot.
