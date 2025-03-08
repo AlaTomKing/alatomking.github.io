@@ -16,7 +16,7 @@ here are all my websites that i think i remember making. some websites are aband
 - easy sorting algorithm generator: https://alatomking.github.io/easy-sorting-algorithm-generator
 - JSONViewer: https://alatomking.github.io/JSONViewer
 - test 404 page: https://alatomking.github.io/test-404-page
-- Incognito Detector: https://alatomking.github.io/Incognito Detector (**f word alert i said the f word**)
+- Incognito Detector: https://alatomking.github.io/Incognito-Detector (**f word alert i said the f word**)
 - Sandbox Studio Square: https://alatomking.github.io/Sandbox-Studio-Square
 - to-do-list: https://alatomking.github.io/to-do-list
 - small projects: https://alatomking.github.io/small-projects/ (unfinished but i would like to continue on that if i have the time and courage)
