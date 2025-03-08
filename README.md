@@ -12,7 +12,7 @@ as you know, everything i made is unfinished, because i dont take being a develo
 ## my websites
 here are all my websites that i think i remember making. some websites are abandoned, unfinished, obsolete and completely broken but im not gonna tell which one hahaha
 
-- Pixomato: [https://alatomking.github.io/pixomato](https://alatomking.github.io/Dictionary) [[GitHub](https://github.com/AlaTomKing/Pixomato)]
+- Pixomato: [https://alatomking.github.io/pixomato](https://alatomking.github.io/Pixomato) [[GitHub](https://github.com/AlaTomKing/Pixomato)]
 - A Star Pathfinding: [https://alatomking.github.io/A-Star-Pathfinding](https://alatomking.github.io/A-Star-Pathfinding) [[GitHub](https://github.com/AlaTomKing/A-Star-Pathfinding)]
 - easy sorting algorithm generator: [https://alatomking.github.io/easy-sorting-algorithm-generator](https://alatomking.github.io/easy-sorting-algorithm-generator) [[GitHub](https://github.com/AlaTomKing/easy-sorting-algorithm-generator)]
 - JSONViewer: [https://alatomking.github.io/JSONViewer](https://alatomking.github.io/JSONViewer) [[GitHub](https://github.com/AlaTomKing/JSONViewer)]
