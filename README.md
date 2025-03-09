@@ -41,7 +41,7 @@ i also think i made the first a capital idk why
 
 expected result:
 
-<span style="color: blue; font-weight: bold">Tom</span>
+<span style="color: green">**Tom**</span>
 
 actual result:
 
