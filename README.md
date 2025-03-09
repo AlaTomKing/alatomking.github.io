@@ -31,13 +31,21 @@ unreal engine is too much for my laptop so idk about that~~
 i consider myself as an developer now, because i try to learn to be versatile around platforms i like. so i am technically still a video game developer, but now i am also a web developer: front end and back end.
 
 ## what does 'alatomking' stand for?
-the name came from minecraft pocket edition in late 2016 because i tried to make my username green
+the name came from minecraft pocket edition in late 2016 because i tried to make my name green and bold
 i was called alatom without the king
 the a in ala makes the text green if u add dis symbol <kbd>§</kbd> in front of it
 the l makes the text <b>bold</b>
 i added another a after the l on accident
 its supposed to be a green bold tom but it showed up like alatom without this symbol <kbd>§</kbd>
 i also think i made the first a capital idk why
+
+expected result:
+
+<span style="color: blue; font-weight: bold">Tom</span>
+
+actual result:
+
+AlaTom
 
 the name 'alatom' came completly on accident and i decided to keep it
 
