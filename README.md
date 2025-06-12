@@ -28,6 +28,19 @@ here are all my websites that i think i remember making. some websites are aband
 - BreadJS: [https://alatomking.github.io/BreadJS](https://alatomking.github.io/BreadJS) [[GitHub](https://github.com/AlaTomKing/BreadJS)]
 - alatomking.github.io: [https://alatomking.github.io](https://alatomking.github.io) [[GitHub](https://github.com/AlaTomKing/alatomking.github.io)]
 
+## my socials
+i have created too many public accounts so imma only list a few of them
+in case i get popular (which would probably never happen), the following list confirms that these accounts are from me and not from anyone else
+
+some list:
+- youtube: [@AlaTomKing](https://www.youtube.com/@AlaTomKing)
+- roblox: [@AlaTomKing](https://www.roblox.com/users/277326173)
+- bluesky: [@alatomking.github.io](https://bsky.app/profile/alatomking.github.io)
+- github (obviously): [@AlaTomKing](https://github.com/AlaTomKing)
+- reddit: [u/SnooPuppers6947](https://www.reddit.com/u/SnooPuppers6947)
+- twitter (privated): [@AlaTomKing](https://twitter.com/AlaTomKing)
+- scratch: [@AlaBruhKing](https://scratch.mit.edu/users/AlaBruhKing), [@AlaTomKing](https://scratch.mit.edu/users/AlaTomKing)
+
 ## why
 ~~im a video game developer, speficially for roblox. but i know one or two about making games in other engines such as unity and godot.
 unreal engine is too much for my laptop so idk about that~~
