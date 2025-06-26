@@ -1,7 +1,8 @@
 # alatomking.github.io
 my name is Tom
 
-this is my website effortlessly made in github and hosted by github
+this is my readme file effortlessly made in github
+the readme file is about the same as my website
 
 this is **not** my portfolio
 
