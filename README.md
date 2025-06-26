@@ -2,7 +2,7 @@
 my name is Tom
 
 this is my readme file effortlessly made in github<br>
-the readme file is about the same as my website
+the readme file is about the same as my [website](https://alatomking.github.io)
 
 this is **not** my portfolio
 
