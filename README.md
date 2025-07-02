@@ -38,7 +38,6 @@ some list:
 - roblox: [@AlaTomKing](https://www.roblox.com/users/277326173)
 - bluesky: [@alatomking.github.io](https://bsky.app/profile/alatomking.github.io)
 - github (obviously): [@AlaTomKing](https://github.com/AlaTomKing)
-- reddit: [u/SnooPuppers6947](https://www.reddit.com/u/SnooPuppers6947)
 - twitter (privated): [@AlaTomKing](https://twitter.com/AlaTomKing)
 - scratch: [@AlaBruhKing](https://scratch.mit.edu/users/AlaBruhKing), [@AlaTomKing](https://scratch.mit.edu/users/AlaTomKing)
 
