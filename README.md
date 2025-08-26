@@ -41,6 +41,18 @@ some list:
 - twitter (privated): [@AlaTomKing](https://twitter.com/AlaTomKing)
 - scratch: [@AlaBruhKing](https://scratch.mit.edu/users/AlaBruhKing), [@AlaTomKing](https://scratch.mit.edu/users/AlaTomKing)
 
+## bedroom.rbxl
+
+i officially add a promotion to our dev studio
+
+we make outstanding robloxian games such as a game about murder, flying, jumping and hiding inside one of the most densest places of the world
+
+here's our github org link: https://github.com/bedroomrbxl
+
+here's our roblox group link: https://www.roblox.com/communities/32972385
+
+here's the discord link too: https://discord.gg/5JsEPQa8n7
+
 ## why
 ~~im a video game developer, speficially for roblox. but i know one or two about making games in other engines such as unity and godot.
 unreal engine is too much for my laptop so idk about that~~
