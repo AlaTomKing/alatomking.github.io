@@ -10,6 +10,19 @@ this is my html website with all the things you dont need
 this projcet is actually licensed with mit license so u can copy and do anything u want as long as u include this license text in my project. nice
 as you know, everything i made is unfinished, because i dont take being a developer very seriously. and im lazy
 
+## about me
+as you know, my name is Tom. my full name is Tom Bread Junior as stated on my github profile.
+
+i know what you're thinking. tom, is your dad also tom bread? and the answer is no; i hate to break it to u but there is no Tom Bread Senior
+
+i am a game, website and random stuff developer but idk how many times i have reiterated that throughout my public digital footprint but i want you to know this
+
+i am currently stuck in a country called germany. its nice
+
+i like drawing so i might open up an virtual art exhibition for u to see
+
+*i am interested in world domination, so be careful if u see me >:)*
+
 ## my websites
 here are all my websites that i think i remember making. some websites are abandoned, unfinished, obsolete and completely broken but im not gonna tell which one hahaha
 
