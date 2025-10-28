@@ -50,6 +50,7 @@ some list:
 - youtube: [@AlaTomKing](https://www.youtube.com/@AlaTomKing)
 - roblox: [@AlaTomKing](https://www.roblox.com/users/277326173)
 - bluesky: [@alatomking.github.io](https://bsky.app/profile/alatomking.github.io)
+- bandcamp: [AlaTom](https://alatomking.bandcamp.com)
 - github (obviously): [@AlaTomKing](https://github.com/AlaTomKing)
 - twitter (privated): [@AlaTomKing](https://twitter.com/AlaTomKing)
 - scratch: [@AlaBruhKing](https://scratch.mit.edu/users/AlaBruhKing), [@AlaTomKing](https://scratch.mit.edu/users/AlaTomKing)
