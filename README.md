@@ -28,6 +28,7 @@ here are all my websites that i think i remember making. some websites are aband
 
 - Pixomato: [https://alatomking.github.io/pixomato](https://alatomking.github.io/pixomato) [[GitHub](https://github.com/AlaTomKing/Pixomato)]
 - online ray tracing: [https://alatomking.github.io/online-ray-tracing](https://alatomking.github.io/online-ray-tracing) [[GitHub](https://github.com/AlaTomKing/online-ray-tracing)]
+- small games: [https://alatomking.github.io/pixomato](https://alatomking.github.io/small-games) [[GitHub](https://github.com/AlaTomKing/small-games)]
 - easy sorting algorithm generator v2: [https://alatomking.github.io/easy-sorting-algorithm-generator-v2](https://alatomking.github.io/easy-sorting-algorithm-generator-v2) [[GitHub](https://github.com/AlaTomKing/easy-sorting-algorithm-generator-v2)]
 - google search messer: [https://alatomking.github.io/google-search-messer](https://alatomking.github.io/google-search-messer) [[GitHub](https://github.com/AlaTomKing/google-search-messer/)] (**i swore in this page beware kids**)
 - A Star Pathfinding: [https://alatomking.github.io/A-Star-Pathfinding](https://alatomking.github.io/A-Star-Pathfinding) [[GitHub](https://github.com/AlaTomKing/A-Star-Pathfinding)]
