@@ -1,8 +1,10 @@
 # alatomking.github.io
+<small>*or alatomking.github.neocities*</small>
+
 my name is Tom
 
 this is my readme file effortlessly made in github<br>
-the readme file is about the same as my [website](https://alatomking.github.io)
+the readme file is about the same as my website on [github](https://alatomking.github.io) or [neocities](https://alatomking.neocities.org)
 
 this is **not** my portfolio
 
