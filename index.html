@@ -319,16 +319,22 @@
 
     <script>
         if (window.location.hostname === "alatomking.github.io") {
-            const element = document.querySelector('.github');
-            element.style.display = "block"
+            const element = document.querySelectorAll('.github');
+            element.forEach(el => {
+                el.style.display = "block"
+            })
         } else if (window.location.hostname === "alatomking.neocities.org") {
-            const element = document.querySelector('.neocities');
-            element.style.display = "block"
+            const element = document.querySelectorAll('.neocities');
+            element.forEach(el => {
+                el.style.display = "block"
+            })
             document.title = "alatomking.neocities.org"
         } else {
-            const element = document.querySelector('.github');
-            element.style.display = "block"
-            const element1 = document.querySelector('.neocities');
+            const element = document.querySelectorAll('.github');
+            element.forEach(el => {
+                el.style.display = "block"
+            })
+            const element1 = document.querySelectorAll('.neocities');
             element1.style.display = "block"
         }
     </script>
