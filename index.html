@@ -207,8 +207,8 @@
             and completely broken but im not gonna tell which one hahaha:</p>
 
         <ul>
-            <li>Pixomato: <a href="https://alatomking.github.io/pixomato">https://alatomking.github.io/pixomato</a> <a
-                    href="https://github.com/AlaTomKing/Pixomato">[GitHub]</a></li>
+            <li>Pixomato: <a href="https://alatomking.codeberg.page/pixomato">https://alatomking.codeberg.page/pixomato</a> <a
+                    href="https://codeberg.org/AlaTomKing/pixomato">[Codeberg]</a></li>
             <li>online ray tracing: <a
                     href="https://alatomking.github.io/online-ray-tracing">https://alatomking.github.io/online-ray-tracing</a>
                 <a href="https://github.com/AlaTomKing/online-ray-tracing">[GitHub]</a>
@@ -266,6 +266,8 @@
                     href="https://github.com/AlaTomKing/Dictionary">[GitHub]</a></li>
             <li>BreadJS: <a href="https://alatomking.github.io/BreadJS">https://alatomking.github.io/BreadJS</a> <a
                     href="https://github.com/AlaTomKing/BreadJS">[GitHub]</a></li>
+            <li>alatomking.codeberg.page: <a href="https://alatomking.codeberg.page">https://alatomking.codeberg.page</a> <a
+                    href="https://codeberg.org/AlaTomKing/pages">[Codeberg]</a></li>
             <li>alatomking.github.io: <a href="https://alatomking.github.io">https://alatomking.github.io</a> <a
                     href="https://github.com/AlaTomKing/alatomking.github.io">[GitHub]</a></li>
         </ul>
@@ -281,11 +283,11 @@
 
         <ul>
             <li>youtube: <a href="https://www.youtube.com/@AlaTomKing">[@AlaTomKing]</a></li>
-            <li>codeberg<span class="codeberg"> (obviously)</span>: <a
+            <li>codeberg <span class="codeberg">(obviously)</span>: <a
                     href="https://codeberg.org/AlaTomKing">[@AlaTomKing]</a></li>
-            <li>github<span class="github"> (obviously)</span>: <a
+            <li>github <span class="github">(obviously)</span>: <a
                     href="https://github.com/AlaTomKing">[@AlaTomKing]</a></li>
-            <li>neocities<span class="neocities"> (obviously)</span>: <a
+            <li>neocities <span class="neocities">(obviously)</span>: <a
                     href="https://neocities.org/site/alatomking">[alatomking]</a></li>
             <li>roblox: <a href="https://www.roblox.com/users/277326173">[@AlaTomKing]</a></li>
             <li>bluesky: <a href="https://bsky.app/profile/alatomking.github.io">[@alatomking.github.io]</a></li>
@@ -363,32 +365,33 @@
         if (window.location.hostname === "alatomking.github.io") {
             const element = document.querySelectorAll('.github');
             element.forEach(el => {
-                el.style.display = "block"
+                el.classList = null
             })
             document.title = "alatomking.github.io"
             titleThingy.innerHTML = "github"
         } else if (window.location.hostname === "alatomking.neocities.org") {
             const element = document.querySelectorAll('.neocities');
             element.forEach(el => {
-                el.style.display = "block"
+                el.classList = null
             })
             document.title = "alatomking.neocities.org"
             titleThingy.innerHTML = "neocities"
-        } else if (window.location.hostname === "alatomking.codeberg.page") {
+        } else {
             const element = document.querySelectorAll('.codeberg');
             element.forEach(el => {
-                el.style.display = "block"
+                el.classList = null
             })
             document.title = "alatomking.codeberg.page"
             titleThingy.innerHTML = "codeberg"
-        } else {
+            // test
+        }/* else {
             /*const element = document.querySelectorAll('.github');
             element.forEach(el => {
                 el.style.display = "block"
             })
             const element1 = document.querySelectorAll('.neocities');
             element1.style.display = "block"*/
-        }
+        //}
     </script>
 </body>
 
