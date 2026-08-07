@@ -2,6 +2,8 @@
 
 *all of my github pages website (except alatomking.github.io of course) will be migrated to be hosted on codeberg pages so eventually the 'my websites' section is gonna be changed from alatomking.github.io to alatomking.codeberg.page lol*
 
+*that means all my future developments of my personal projects will be published on codeberg only*
+
 *thanks for reading cuz this message will be gone in the deep depths in the commits*
 
 # alatomking.github.io
