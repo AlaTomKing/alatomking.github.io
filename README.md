@@ -1,10 +1,16 @@
+*NOTE: i am currently migrating to codeberg from github to prioritize this platform more cuz this is like the german version of github and im german so it kinda makes sense. i will keep my github account but remove all the repositories there and just reduce some of them to an issue tracker or something.*
+
+*all of my github pages website (except alatomking.github.io of course) will be migrated to be hosted on codeberg pages so eventually the 'my websites' section is gonna be changed from alatomking.github.io to alatomking.codeberg.page lol*
+
+*thanks for reading cuz this message will be gone in the deep depths in the commits*
+
 # alatomking.github.io
-<small>*or alatomking.github.neocities*</small>
+<small>*or alatomking.codeberg.page or alatomking.neocities.org*</small>
 
 my name is Tom
 
-this is my readme file effortlessly made in github<br>
-the readme file is about the same as my website on [github](https://alatomking.github.io) or [neocities](https://alatomking.neocities.org)
+this is my readme file that is effortlessly made<br>
+the readme file is about the same as my website on [codeberg](https://alatomking.codeberg.page), [github](https://alatomking.github.io) and [neocities](https://alatomking.neocities.org)
 
 this is **not** my portfolio
 
@@ -52,10 +58,12 @@ in case i get popular (which would probably never happen), the following list co
 
 some list:
 - youtube: [@AlaTomKing](https://www.youtube.com/@AlaTomKing)
+- codeberg: [@AlaTomKing](https://codeberg.org/AlaTomKing)
+- github: (obviously) [@AlaTomKing](https://github.com/AlaTomKing)
+- neocities: [alatomking](https://neocities.org/site/alatomking)
 - roblox: [@AlaTomKing](https://www.roblox.com/users/277326173)
 - bluesky: [@alatomking.github.io](https://bsky.app/profile/alatomking.github.io)
 - bandcamp: [AlaTom](https://alatomking.bandcamp.com)
-- github (obviously): [@AlaTomKing](https://github.com/AlaTomKing)
 - twitter (privated): [@AlaTomKing](https://twitter.com/AlaTomKing)
 - scratch: [@AlaBruhKing](https://scratch.mit.edu/users/AlaBruhKing), [@AlaTomKing](https://scratch.mit.edu/users/AlaTomKing)
 
