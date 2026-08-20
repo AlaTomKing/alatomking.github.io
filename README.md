@@ -1,11 +1,3 @@
-*NOTE: i am currently migrating to codeberg from github to prioritize this platform more cuz this is like the german version of github and im german so it kinda makes sense. i will keep my github account but remove all the repositories there and just reduce some of them to an issue tracker or something.*
-
-*all of my github pages website (except alatomking.github.io of course) will be migrated to be hosted on codeberg pages so eventually the 'my websites' section is gonna be changed from alatomking.github.io to alatomking.codeberg.page lol*
-
-*that means all my future developments of my personal projects will be published on codeberg only*
-
-*thanks for reading cuz this message will be gone in the deep depths in the commits*
-
 # alatomking.github.io
 <small>*or alatomking.codeberg.page or alatomking.neocities.org*</small>
 
@@ -21,7 +13,7 @@ this projcet is actually licensed with mit license so u can copy and do anything
 as you know, everything i made is unfinished, because i dont take being a developer very seriously. and im lazy
 
 ## about me
-as you know, my name is Tom. my full name is Tom Bread Junior as stated on my github profile.
+as you know, my name is Tom. my full name is Tom Bread Junior as stated on my codeberg and github profile.
 
 i know what you're thinking. tom, is your dad also tom bread? and the answer is no; i hate to break it to u but there is no Tom Bread Senior
 
@@ -36,22 +28,23 @@ i like drawing so i might open up an virtual art exhibition for u to see
 ## my websites
 here are all my websites that i think i remember making. some websites are abandoned, unfinished, obsolete and completely broken but im not gonna tell which one hahaha
 
-- Pixomato: [https://alatomking.github.io/pixomato](https://alatomking.github.io/pixomato) [[GitHub](https://github.com/AlaTomKing/Pixomato)]
-- online ray tracing: [https://alatomking.github.io/online-ray-tracing](https://alatomking.github.io/online-ray-tracing) [[GitHub](https://github.com/AlaTomKing/online-ray-tracing)]
-- small games: [https://alatomking.github.io/pixomato](https://alatomking.github.io/small-games) [[GitHub](https://github.com/AlaTomKing/small-games)]
-- easy sorting algorithm generator v2: [https://alatomking.github.io/easy-sorting-algorithm-generator-v2](https://alatomking.github.io/easy-sorting-algorithm-generator-v2) [[GitHub](https://github.com/AlaTomKing/easy-sorting-algorithm-generator-v2)]
-- google search messer: [https://alatomking.github.io/google-search-messer](https://alatomking.github.io/google-search-messer) [[GitHub](https://github.com/AlaTomKing/google-search-messer/)] (**i swore in this page beware kids**)
-- A Star Pathfinding: [https://alatomking.github.io/A-Star-Pathfinding](https://alatomking.github.io/A-Star-Pathfinding) [[GitHub](https://github.com/AlaTomKing/A-Star-Pathfinding)]
-- portfolio: [https://alatomking.github.io/portfolio](https://alatomking.github.io/portfolio) [[GitHub](https://github.com/AlaTomKing/portfolio)] (unimportant. i made this as a joke.)
-- easy sorting algorithm generator: [https://alatomking.github.io/easy-sorting-algorithm-generator](https://alatomking.github.io/easy-sorting-algorithm-generator) [[GitHub](https://github.com/AlaTomKing/easy-sorting-algorithm-generator)]
-- JSONViewer: [https://alatomking.github.io/JSONViewer](https://alatomking.github.io/JSONViewer) [[GitHub](https://github.com/AlaTomKing/JSONViewer)]
-- test 404 page: [https://alatomking.github.io/test-404-page](https://alatomking.github.io/test-404-page) [[GitHub](https://github.com/AlaTomKing/test-404-page)]
-- Incognito Detector: [https://alatomking.github.io/Incognito-Detector](https://alatomking.github.io/Incognito-Detector) [[GitHub](https://github.com/AlaTomKing/Incognito-Detector)] (**f word alert i said the f word**)
-- Sandbox Studio Square: [https://alatomking.github.io/Sandbox-Studio-Square](https://alatomking.github.io/Sandbox-Studio-Square) [[GitHub](https://github.com/AlaTomKing/Sandbox-Studio-Square)]
-- to-do list: [https://alatomking.github.io/to-do-list](https://alatomking.github.io/to-do-list) [[GitHub](https://github.com/AlaTomKing/to-do-list)]
-- small projects: [https://alatomking.github.io/small-projects](https://alatomking.github.io/small-projects) [[GitHub](https://github.com/AlaTomKing/small-projects)] (unfinished but i would like to continue on that if i have the time and courage)
-- Dictionary: [https://alatomking.github.io/Dictionary](https://alatomking.github.io/Dictionary) [[GitHub](https://github.com/AlaTomKing/Dictionary)]
-- BreadJS: [https://alatomking.github.io/BreadJS](https://alatomking.github.io/BreadJS) [[GitHub](https://github.com/AlaTomKing/BreadJS)]
+- Pixomato: [https://alatomking.codeberg.page/pixomato](https://alatomking.codeberg.page/pixomato) [[Codeberg](https://codeberg.org/AlaTomKing/pixomato)], [https://alatomking.github.io/pixomato](https://alatomking.github.io/pixomato) [[GitHub](https://github.com/AlaTomKing/pixomato)]
+- online ray tracing: [https://alatomking.codeberg.page/online-ray-tracing](https://alatomking.codeberg.page/online-ray-tracing) [[Codeberg](https://codeberg.org/AlaTomKing/online-ray-tracing)]
+- small games: [https://alatomking.codeberg.page/small-games](https://alatomking.codeberg.page/small-games) [[Codeberg](https://codeberg.org/AlaTomKing/small-games)]
+- easy sorting algorithm generator v2: [https://alatomking.codeberg.page/easy-sorting-algorithm-generator-v2](https://alatomking.codeberg.page/easy-sorting-algorithm-generator-v2) [[Codeberg](https://codeberg.org/AlaTomKing/easy-sorting-algorithm-generator-v2)]
+- google search messer: [https://alatomking.codeberg.page/google-search-messer](https://alatomking.codeberg.page/google-search-messer) [[Codeberg](https://codeberg.org/AlaTomKing/google-search-messer/)] (**i swore in this page beware kids**)
+- A Star Pathfinding: [https://alatomking.codeberg.page/A-Star-Pathfinding](https://alatomking.codeberg.page/A-Star-Pathfinding) [[Codeberg](https://codeberg.org/AlaTomKing/A-Star-Pathfinding)]
+- portfolio: [https://alatomking.codeberg.page/portfolio](https://alatomking.codeberg.page/portfolio) [[Codeberg](https://codeberg.org/AlaTomKing/portfolio)] (unimportant. i made this as a joke.)
+- easy sorting algorithm generator: [https://alatomking.codeberg.page/easy-sorting-algorithm-generator](https://alatomking.codeberg.page/easy-sorting-algorithm-generator) [[Codeberg](https://codeberg.org/AlaTomKing/easy-sorting-algorithm-generator)]
+- JSONViewer: [https://alatomking.codeberg.page/JSONViewer](https://alatomking.codeberg.page/JSONViewer) [[Codeberg](https://codeberg.org/AlaTomKing/JSONViewer)]
+- test 404 page: [https://alatomking.codeberg.page/test-404-page](https://alatomking.codeberg.page/test-404-page) [[Codeberg](https://codeberg.org/AlaTomKing/test-404-page)]
+- Incognito Detector: [https://alatomking.codeberg.page/Incognito-Detector](https://alatomking.codeberg.page/Incognito-Detector) [[Codeberg](https://codeberg.org/AlaTomKing/Incognito-Detector)] (**f word alert i said the f word**)
+- Sandbox Studio Square: [https://alatomking.codeberg.page/Sandbox-Studio-Square](https://alatomking.codeberg.page/Sandbox-Studio-Square) [[Codeberg](https://codeberg.org/AlaTomKing/Sandbox-Studio-Square)]
+- to-do list: [https://alatomking.codeberg.page/to-do-list](https://alatomking.codeberg.page/to-do-list) [[Codeberg](https://codeberg.org/AlaTomKing/to-do-list)]
+- small projects: [https://alatomking.codeberg.page/small-projects](https://alatomking.codeberg.page/small-projects) [[Codeberg](https://codeberg.org/AlaTomKing/small-projects)] (unfinished but i would like to continue on that if i have the time and courage)
+- Dictionary: [https://alatomking.codeberg.page/Dictionary](https://alatomking.codeberg.page/Dictionary) [[Codeberg](https://codeberg.org/AlaTomKing/Dictionary)]
+- BreadJS: [https://alatomking.codeberg.page/BreadJS](https://alatomking.codeberg.page/BreadJS) [[Codeberg](https://codeberg.org/AlaTomKing/BreadJS)]
+- alatomking.codeberg.page: [https://alatomking.codeberg.page](https://alatomking.codeberg.page) [[Codeberg](https://codeberg.org/AlaTomKing/pages)]
 - alatomking.github.io: [https://alatomking.github.io](https://alatomking.github.io) [[GitHub](https://github.com/AlaTomKing/alatomking.github.io)]
 
 ## my socials
@@ -60,8 +53,8 @@ in case i get popular (which would probably never happen), the following list co
 
 some list:
 - youtube: [@AlaTomKing](https://www.youtube.com/@AlaTomKing)
-- codeberg: [@AlaTomKing](https://codeberg.org/AlaTomKing)
-- github: (obviously) [@AlaTomKing](https://github.com/AlaTomKing)
+- codeberg (obviously): [@AlaTomKing](https://codeberg.org/AlaTomKing)
+- github: [@AlaTomKing](https://github.com/AlaTomKing)
 - neocities: [alatomking](https://neocities.org/site/alatomking)
 - roblox: [@AlaTomKing](https://www.roblox.com/users/277326173)
 - bluesky: [@alatomking.github.io](https://bsky.app/profile/alatomking.github.io)
